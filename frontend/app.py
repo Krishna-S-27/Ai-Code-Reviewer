@@ -1,18 +1,3 @@
-# app.py — Streamlit frontend for AI-Code-Reviewer
-# ------------------------------------------------
-# Features
-# - Professional single-page UI with sidebar controls
-# - Paste code OR upload a file
-# - Calls your FastAPI backend: /api/analyze, /api/report
-# - Shows AI review (Java/Go) and linter output (JS/C++/Python) elegantly
-# - Lets you download the generated PDF report
-#
-# How to run:
-#   1) pip install -r requirements.txt  (streamlit, requests, python-dotenv)
-#   2) streamlit run app.py
-#
-# Optional: create a .env in the same folder with BACKEND_URL=http://127.0.0.1:8000
-
 import io
 import os
 import time
@@ -30,7 +15,7 @@ except Exception:
 # ----------------------------------
 # Config
 # ----------------------------------
-BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
+BACKEND_URL = os.getenv("BACKEND_URL", "https://ai-code-reviewer-backend-udx1.onrender.com/")
 ANALYZE_ENDPOINT = f"{BACKEND_URL}/api/analyze"
 REPORT_ENDPOINT = f"{BACKEND_URL}/api/report"
 
