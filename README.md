@@ -114,19 +114,8 @@ Start Command:
 streamlit run app.py --server.port 10000 --server.address 0.0.0.0
 ✅ Now you can open the frontend Render URL → enter backend Render URL in sidebar → Start reviewing code!
 
-## 📸 Screenshots  
+## 👨‍💻 Credits  
 
-### Main UI  
-![Main UI](https://github.com/user-attachments/assets/c7c380c4-fd6f-4ed2-8249-b9885a1629f9)
-
-### Example AI Review  
-![AI Review 1](https://github.com/user-attachments/assets/8582e736-ae7a-47bb-89ea-9c2aaf1d0b3b)  
-![AI Review 2](https://github.com/user-attachments/assets/ee75be8f-a0f7-4f1c-ba15-977fae90e14d)  
-![AI Review 3](https://github.com/user-attachments/assets/e20c848b-310b-478d-96f3-1183469a6b83)  
-![AI Review 4](https://github.com/user-attachments/assets/ea324270-87f4-40ae-9f98-1648c7aa865a)  
-![AI Review 5](https://github.com/user-attachments/assets/e101fe6b-eb1e-437f-bba1-6cbbb143f460)
-
-Credits
-Built by Krishna Shalawadi with  using FastAPI, Streamlit, and AI.
-[GitHub](https://github.com/Krishna-S-27)
-[Linkedin](https://linkedin.com/in/krishnashalawadi)
+Built by **Krishna Shalawadi** using FastAPI, Streamlit, and AI.  
+Github: github.com/Krishna-S-27
+Linkedin: linkedin.com/in/krishnashalawadi
