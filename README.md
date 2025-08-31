@@ -1,17 +1,24 @@
-# 🧠 AI-Code-Reviewer
+# 🧠 AI-Code-Reviewer  
 
-AI-Code-Reviewer is a **multi-language automated code review platform** that combines  
-✔️ **Linting** (Python, JavaScript, C/C++)  
-✔️ **Complexity analysis**  
-✔️ **AI-powered review** (Java, Go)  
-✔️ **PDF report generation**  
+AI-Code-Reviewer is a **Hybrid Ai powered multi-language automated code review platform** that helps developers analyze, review, and improve their code efficiently.  
 
-It is built with a **FastAPI backend** and a **Streamlit frontend**.  
-The project can be run locally or deployed on **Render** for cloud access.
+### ✨ Features  
+- ✔️ **Linting**: Python, JavaScript, C/C++  
+- ✔️ **Complexity Analysis**: Understand code maintainability  
+- ✔️ **AI-Powered Review**: Java & Go (style, best practices, improvements)  
+- ✔️ **PDF Report Generation**: Export clean review reports  
 
-Backend Link = https://ai-code-reviewer-backend-udx1.onrender.com
-Frontend Link = https://ai-code-reviewer-frontend-3pi1.onrender.com
+### 🏗️ Tech Stack  
+- **Backend**: FastAPI (Python)  
+- **Frontend**: Streamlit (with custom CSS for professional UI)  
+- **Deployment**: Render (for cloud hosting)  
+
+### 🚀 Live Demo  
+- 🔗 **Backend API**: [AI-Code-Reviewer Backend](https://ai-code-reviewer-backend-udx1.onrender.com)  
+- 🎨 **Frontend UI**: [AI-Code-Reviewer Frontend](https://ai-code-reviewer-frontend-3pi1.onrender.com)  
+
 ---
+
 
 ## 📌 Project Idea
 
