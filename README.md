@@ -3,12 +3,14 @@
 AI-Code-Reviewer is a **multi-language automated code review platform** that combines  
 ✔️ **Linting** (Python, JavaScript, C/C++)  
 ✔️ **Complexity analysis**  
-✔️ **AI-powered review** (Java, Go, Python)  
+✔️ **AI-powered review** (Java, Go)  
 ✔️ **PDF report generation**  
 
 It is built with a **FastAPI backend** and a **Streamlit frontend**.  
 The project can be run locally or deployed on **Render** for cloud access.
 
+Backend Link = https://ai-code-reviewer-backend-udx1.onrender.com
+Frontend Link = https://ai-code-reviewer-frontend-3pi1.onrender.com
 ---
 
 ## 📌 Project Idea
@@ -113,9 +115,10 @@ Start Command:
 
 streamlit run app.py --server.port 10000 --server.address 0.0.0.0
 ✅ Now you can open the frontend Render URL → enter backend Render URL in sidebar → Start reviewing code!
+```
+---
 
 ## 👨‍💻 Credits  
 
-Built by **Krishna Shalawadi** using FastAPI, Streamlit, and AI.  
-Github: github.com/Krishna-S-27
-Linkedin: linkedin.com/in/krishnashalawadi
+Built by `Krishna Shalawadi` using FastAPI, Streamlit, and AI.  
+
